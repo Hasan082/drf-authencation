@@ -150,6 +150,11 @@ SPECTACULAR_SETTINGS = {
 }
 
 
+REST_AUTH_REGISTER_SERIALIZERS = {
+    'REGISTER_SERIALIZER': 'my_account.serializers.CustomRegisterSeriaLizer',
+}
+
+
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 
