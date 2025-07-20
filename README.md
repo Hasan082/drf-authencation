@@ -1,1 +1,1 @@
-# DRF Auth
+# DJango Auth Framwork
