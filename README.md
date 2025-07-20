@@ -1,1 +1,1 @@
-# DJango Auth Framwork
+# Django Auth Framwork
