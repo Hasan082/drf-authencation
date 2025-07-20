@@ -6,3 +6,5 @@
  3. PUT
  4. PATCH
  5. DELETE
+
+Use dj-rest-auth
