@@ -1,5 +1,5 @@
 # Django Auth Framwork
 
  Follows RestAPi Best Practice
- 1. Get
- 2. Post
+ 1. GET
+ 2. POST
